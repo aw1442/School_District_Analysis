@@ -52,6 +52,6 @@ The school board has notified Maria and her supervisor that the students_complet
 In summary, there are four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
 
 1. The district summary is affected by the average math score dropping 0.1
-2. Thomas High School's average math score dropped 0.06, average reading core gained 0.05, passing math percentage gained 0.09%, passing reading percentage dropped 0.29%, and overall passing percntage dropped 0.31%, with the same number 2 ranking
+2. Thomas High School's average math score dropped 0.06, average reading core gained 0.05, passing math percentage gained 0.09%, passing reading percentage dropped 0.29%, and overall passing percentage dropped 0.31%, with the same number 2 ranking
 3. There was a 6% decrease in % passing math, a 7% decrease in % passing reading, and a 7% decrease in % overall passing in the $630-644 spending range
 4. For medium-sized schools (1,000-2,000), the % passing math, % passing reading, and % overall passing dropped 6% each
